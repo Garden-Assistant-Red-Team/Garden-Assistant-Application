@@ -1,4 +1,4 @@
-##Garden Assistant Application Portfolio
+Garden Assistant Application Portfolio
 
 Welcome to our team website. This site will serve as our electronic portfolio for team project.
 
