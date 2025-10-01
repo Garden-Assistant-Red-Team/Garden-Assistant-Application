@@ -1,1 +1,9 @@
+title: Garden Assistant Application
+description: Team Red — CS 410
 theme: jekyll-theme-cayman
+
+header_pages:
+  - index.md
+  - presentations.md
+  - team.md
+
