@@ -37,7 +37,7 @@ title: Team Bio
 | <img src="/Garden-Assistant-Application/assets/img/mariem.jpg" alt="Mariem Mohamed" class="team-pic"> **Mariem Mohamed** | Short bio here. |
 | <img src="/Garden-Assistant-Application/assets/img/kenyta.jpg" alt="Kenyta Blount" class="team-pic"> **Kenyta Blount** | Short bio here. |
 | <img src="/Garden-Assistant-Application/assets/img/michael.jpg" alt="Michael Hollingsworth" class="team-pic"> **Michael Hollingsworth** | Short bio here. |
-| <img src="/Garden-Assistant-Application/assets/img/johnathan.jpg" alt="Jonathan Osberg" class="team-pic"> **Jonathan Osberg** | Short bio here. |
+| <img src="/Garden-Assistant-Application/assets/img/jonathan.jpg" alt="Jonathan Osberg" class="team-pic"> **Jonathan Osberg** | Short bio here. |
 | <img src="/Garden-Assistant-Application/assets/img/ryan.jpg" alt="Ryan Siebert-Ngo" class="team-pic"> **Ryan Siebert-Ngo** | Short bio here. |
 | <img src="/Garden-Assistant-Application/assets/img/ibrahima.jpg" alt="Ibrahima Wann" class="team-pic"> **Ibrahima Wann** | Short bio here. |
 
