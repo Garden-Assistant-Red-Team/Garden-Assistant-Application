@@ -13,7 +13,7 @@ title: Team Bio
 
 # Meet the Team
 
-> Keep bios to 1–2 sentences each.
+
 
 | Member | Bio |
 |---|---|
