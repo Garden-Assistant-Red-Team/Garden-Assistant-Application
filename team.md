@@ -21,6 +21,6 @@ title: Team Bio
 | <img src="/Garden-Assistant-Application/assets/img/kenyta.jpg" alt="Kenyta Blount" width="140"> **Kenyta Blount** | Short bio here. |
 | <img src="/Garden-Assistant-Application/assets/img/michael.jpg" alt="Michael Hollingsworth" width="140"> **Michael Hollingsworth** | Short bio here. |
 | <img src="/Garden-Assistant-Application/assets/img/jonathan.jpg" alt="Jonathan Osberg" width="140"> **Jonathan Osberg** | Short bio here. |
-| <img src="/Garden-Assistant-Application/assets/img/ryan.jpg" alt="Ryan Siebert-Ngo" width="140"> **Ryan Siebert-Ngo** | Short bio here. |
+| <img src="/Garden-Assistant-Application/assets/img/ryan.jpg" alt="Ryan Siebert-Ngo" width="140"> **Ryan Siebert-Ngo** | My name is Ryan and I am a Senior Computer Science student at Old Dominion University. |
 | <img src="/Garden-Assistant-Application/assets/img/ibrahima.jpg" alt="Ibrahima Wann" width="140"> **Ibrahima Wann** | Short bio here. |
 
