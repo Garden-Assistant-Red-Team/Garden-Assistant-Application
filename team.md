@@ -11,24 +11,6 @@ title: Team Bio
 </p>
 <hr>
 
-# Meet the Team
-
-
-
-| Member | Bio |
-|---|---|
----
-layout: default
-title: Team Bio
----
-
-<!-- NAV BAR -->
-<p>
-  <a href="/Garden-Assistant-Application/">Home</a> ·
-  <a href="/Garden-Assistant-Application/presentations">Presentations</a> ·
-  <a href="/Garden-Assistant-Application/team">Team Bio</a>
-</p>
-<hr>
 
 # Meet the Team
 
