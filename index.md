@@ -1,3 +1,16 @@
+---
+layout: default
+title: Garden Assistant
+---
+
+<!-- NAV BAR (manual) -->
+<p>
+  <a href="/Garden-Assistant-Application/">Home</a> ·
+  <a href="/Garden-Assistant-Application/presentations">Presentations</a> ·
+  <a href="/Garden-Assistant-Application/team">Team Bio</a>
+</p>
+<hr>
+
 Garden Assistant Application Portfolio
 
 Welcome to our team website. This site will serve as our electronic portfolio for team project.
