@@ -14,7 +14,7 @@ title: Presentations
 # Feasibility Presentation
 
 <div class="slide-wrap">
-  <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vT1lbYsu8CObUPEDU_34ZevBXFOrQ8D1c7o9nNT57jNuVqE3O2Lk6U-F-pgvnbQzg/pubembed?start=false&loop=false&delayms=3000"
+  <iframe src="https://docs.google.com/presentation/d/1UHvCibJWSSQanufIapTHNkI1VKHAXvQrTxWj9il7cdk/edit?usp=sharing"
           frameborder="0" allowfullscreen mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 </div>
 
