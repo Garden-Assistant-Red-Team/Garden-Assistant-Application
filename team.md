@@ -34,7 +34,7 @@ title: Team Bio
 
 | Member | Bio |
 |--------|-----|
-| <img src="/Garden-Assistant-Application/assets/img/mariem.jpg" alt="Mariem Mohamed" class="team-pic"> **Mariem Mohamed** | Short bio here. |
+| <img src="/Garden-Assistant-Application/assets/img/mariem.jpg" alt="Mariem Mohamed" class="team-pic"> **Mariem Mohamed** | I'm a Junior at Old Dominion University. My major is Computer Science and my minor is Cybersecurity. |
 | <img src="/Garden-Assistant-Application/assets/img/kenyta.jpg" alt="Kenyta Blount" class="team-pic"> **Kenyta Blount** | Short bio here. |
 | <img src="/Garden-Assistant-Application/assets/img/michael.jpg" alt="Michael Hollingsworth" class="team-pic"> **Michael Hollingsworth** | Short bio here. |
 | <img src="/Garden-Assistant-Application/assets/img/jonathan.jpg" alt="Jonathan Osberg" class="team-pic"> **Jonathan Osberg** | Short bio here. |
