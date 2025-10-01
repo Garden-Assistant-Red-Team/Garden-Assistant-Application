@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Garden Assistant
+title: Garden Assistant Application
 ---
 
 <!-- NAV BAR (manual) -->
