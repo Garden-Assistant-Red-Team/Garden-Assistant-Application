@@ -21,7 +21,7 @@ title: Team Bio
 | <img src="/Garden-Assistant-Application/assets/img/michael.jpg" alt="Michael Hollingsworth" class="team-pic"> **Michael Hollingsworth** | Short bio here. |
 | <img src="/Garden-Assistant-Application/assets/img/jonathan.jpg" alt="Jonathan Osberg" class="team-pic"> **Jonathan Osberg** | Short bio here. |
 | <img src="/Garden-Assistant-Application/assets/img/ryan.jpg" alt="Ryan Siebert-Ngo" class="team-pic"> **Ryan Siebert-Ngo** | My name is Ryan and I am a Senior Computer Science student at Old Dominion University. |
-| <img src="/Garden-Assistant-Application/assets/img/ibrahima.jpg" alt="Ibrahima Wann" class="team-pic"> **Ibrahima Wann** | Short bio here. |
+| <img src="/Garden-Assistant-Application/assets/img/ibrahima.jpg" alt="Ibrahima Wann" class="team-pic"> **Ibrahima Wann** |  My name is Ibrahima Wann, I am a computer science student at Old Dominion University with a growing interest in data science, machine learning, and building tech that helps people live more sustainably. I’m excited to bring my skills to our garden app and help make growing things easier and smarter. |
 
 <style>
 .team-pic {
