@@ -15,15 +15,15 @@ a:hover{ color:#245e27; text-decoration:underline; }
 /* ---------- Leafy Hero ------------------------------------------- */
 .hero{
   position:relative;
-  padding:2.8rem 1rem;
-  margin:-1rem -1rem 1.25rem;   /* stretch edge-to-edge under Cayman/minima content */
-  overflow:hidden;
+  padding:3rem 1rem;
+  margin:-1rem -1rem 1.25rem;
   color:#0b2d0d;
   background:
-    radial-gradient(1200px 300px at 50% -10%, #dff4e2 0%, rgba(223,244,226,0) 60%),
-    linear-gradient(90deg, #eaf7ec, #e6f5ea);
-  border-bottom: 2px solid var(--ivy);
+    linear-gradient(0deg, rgba(255,255,255,.75), rgba(255,255,255,.75)),
+    url("/Garden-Assistant-Application/assets/img/hero.jpg") center/cover no-repeat;
+  border-bottom: 3px solid #66bb6a;
 }
+
 
 /* Subtle repeating leaf pattern via inline SVG */
 .hero:before{
