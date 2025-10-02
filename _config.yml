@@ -1,6 +1,6 @@
 title: Garden Assistant Application
 description: Team Red — CS 410
-theme: jekyll-theme-cayman
+theme: jekyll-theme-slate
 
 header_pages:
   - index.md
