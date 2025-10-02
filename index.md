@@ -3,11 +3,7 @@ layout: default
 title: Garden Assistant Application
 ---
 <link rel="stylesheet" href="/Garden-Assistant-Application/assets/css/custom.css">
-<div class="hero">
-  <h1>🌿 The Garden Assistant</h1>
-  <div class="leaf-divider"></div>
-  <p>Smart tips, weather-aware alerts, and easy note-keeping to help your plants thrive.</p>
-</div>
+
 <!-- NAV BAR (manual) -->
 <p>
   <a href="/Garden-Assistant-Application/">Home</a> ·
