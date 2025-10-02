@@ -13,12 +13,17 @@ a{ color:var(--green); text-decoration:none; font-weight:600; }
 a:hover{ color:#245e27; text-decoration:underline; }
 
 /* ---------- Leafy Hero ------------------------------------------- */
-.hero:before{
-  content:"";
-  position:absolute; inset:0;
-  opacity:.18;
-  background-image: url("data:image/svg+xml,%3Csvg width='160' height='160' xmlns='http://www.w3.org/2000/svg'%3E%3Cg fill='%2392c79a' fill-opacity='0.35'%3E%3Cpath d='M80 10c18 20 18 40 0 60-18-20-18-40 0-60z'/%3E%3Cpath d='M10 80c20-18 40-18 60 0-20 18-40 18-60 0z'/%3E%3Cpath d='M150 80c-20-18-40-18-60 0 20 18 40 18 60 0z'/%3E%3C/g%3E%3C/svg%3E");
-  background-size: 160px 160px;
+.hero{
+  position:relative;
+  padding:2.8rem 1rem;
+  margin:-1rem -1rem 1.25rem;   /* stretch edge-to-edge under Cayman/minima content */
+  overflow:hidden;
+  color:#0b2d0d;
+  background:
+    radial-gradient(1200px 300px at 50% -10%, #dff4e2 0%, rgba(223,244,226,0) 60%),
+    linear-gradient(90deg, #eaf7ec, #e6f5ea);
+  border-bottom: 2px solid var(--ivy);
+}
 
 
 /* Subtle repeating leaf pattern via inline SVG */
