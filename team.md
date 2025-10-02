@@ -17,7 +17,7 @@ title: Team Bio
 | Member | Bio |
 |--------|-----|
 | <img src="/Garden-Assistant-Application/assets/img/mariem.jpg" alt="Mariem Mohamed" class="team-pic"> **Mariem Mohamed** | Mariem is a Junior at Old Dominion University. Her major is Computer Science and her minor is Cybersecurity. |
-| <img src="/Garden-Assistant-Application/assets/img/kenyta.jpg" alt="Kenyta Blount" class="team-pic"> **Kenyta Blount** | She is a Senior at Old Dominion University, majoring in Computer Science. |
+| <img src="/Garden-Assistant-Application/assets/img/kenyta.jpg" alt="Kenyta Blount" class="team-pic"> **Kenyta Blount** | Kenyta is a Senior at Old Dominion University, majoring in Computer Science. |
 | <img src="/Garden-Assistant-Application/assets/img/michael.jpg" alt="Michael Hollingsworth" class="team-pic"> **Michael Hollingsworth** | He is a Senior in Old Dominion University, getting a major in Computer Science. |
 | <img src="/Garden-Assistant-Application/assets/img/jonathan.jpg" alt="Jonathan Osberg" class="team-pic"> **Jonathan Osberg** | Short bio here. |
 | <img src="/Garden-Assistant-Application/assets/img/ryan.jpg" alt="Ryan Siebert-Ngo" class="team-pic"> **Ryan Siebert-Ngo** | My name is Ryan and I am a Senior Computer Science student at Old Dominion University. |
