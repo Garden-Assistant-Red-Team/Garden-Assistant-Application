@@ -5,12 +5,6 @@ title: Garden Assistant Application
 <link rel="stylesheet" href="{{ site.baseurl }}/assets/css/custom.css">
 
 <!-- NAV BAR (manual) -->
-<p>
-  <a href="/Garden-Assistant-Application/">Home</a> ·
-  <a href="/Garden-Assistant-Application/presentations">Presentations</a> ·
-  <a href="/Garden-Assistant-Application/team">Team Bio</a>
-</p>
-<hr>
 {% include nav.html %}
 
 Garden Assistant Application Portfolio
