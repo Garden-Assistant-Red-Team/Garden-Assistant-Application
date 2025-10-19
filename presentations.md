@@ -4,12 +4,7 @@ title: Presentations
 ---
 <link rel="stylesheet" href="/Garden-Assistant-Application/assets/css/custom.css">
 <!-- NAV BAR -->
-<p>
-  <a href="/Garden-Assistant-Application/">Home</a> ·
-  <a href="/Garden-Assistant-Application/presentations">Presentations</a> ·
-  <a href="/Garden-Assistant-Application/team">Team Bio</a>
-</p>
-<hr>
+{% include nav.html %}
 
 # Feasibility Presentation
 
