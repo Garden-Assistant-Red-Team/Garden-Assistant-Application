@@ -23,7 +23,7 @@ Welcome to our team website. This site will serve as our electronic portfolio fo
 - Michael Hollingsworth
 - Ibrahima Wann
 - Jonathan Osberg
- 
+
 
 ## About This Site
 This website will document our progress throughout the course, including:
@@ -31,3 +31,4 @@ This website will document our progress throughout the course, including:
 - Design documents
 - Development updates
 - Final deliverables
+ 
