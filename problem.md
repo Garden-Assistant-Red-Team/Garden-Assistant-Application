@@ -13,4 +13,4 @@ Our project aims to solve this by creating a digital assistant that helps track 
 - Difficulty tracking seasonal changes.
 - Lack of consolidated gardening advice.
 
-> Example: Users often have to use multiple apps or notes to remember watering schedules.
+
