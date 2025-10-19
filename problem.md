@@ -32,7 +32,7 @@ With the right guidance, even people with little to no experience can develop lo
 
 ---
 
-# Current Process Flow
+# Problem Process Flow
 <p align="center">
   <img src="{{ site.baseurl }}/assets/img/current-process-flow.png" alt="Current Process Flow" width="850">
 </p>
