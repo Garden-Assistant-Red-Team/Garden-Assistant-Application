@@ -1,6 +1,8 @@
 ---
 title: Problem
+permalink: /problem
 ---
+{% include nav.html %}
 
 # The Problem
 
