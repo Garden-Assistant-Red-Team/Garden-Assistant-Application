@@ -1,6 +1,7 @@
 ---
 title: Solution
 ---
+{% include nav.html %}
 
 # Our Solution
 
