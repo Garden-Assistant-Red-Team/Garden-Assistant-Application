@@ -13,3 +13,4 @@ The **Garden Assistant Application** simplifies plant care management through re
 - Personalized dashboard for each user’s garden.
 
 > This provides convenience and helps users build healthier gardens through data-driven insights. 
+ 
