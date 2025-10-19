@@ -2,6 +2,9 @@ title: Garden Assistant Application
 description: Team Red — CS 410
 theme: jekyll-theme-cayman
 
+url: "https://garden-assistant-red-team.github.io"
+baseurl: "/Garden-Assistant-Application"
+
 header_pages:
   - index.md
   - problem.md
@@ -9,5 +12,4 @@ header_pages:
   - deliverables.md
   - presentations.md
   - team.md
-  -
  
