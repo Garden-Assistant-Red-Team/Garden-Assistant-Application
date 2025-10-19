@@ -11,6 +11,6 @@ Our project aims to solve this by creating a digital assistant that helps track 
 - Forgetting to water or fertilize plants.
 - Not knowing each plant’s specific needs.
 - Difficulty tracking seasonal changes.
-- Lack of consolidated gardening advice. 
+- Lack of consolidated gardening advice.  
 
 
