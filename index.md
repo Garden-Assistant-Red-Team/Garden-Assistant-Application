@@ -2,7 +2,7 @@
 layout: default
 title: Garden Assistant Application
 ---
-<link rel="stylesheet" href="/Garden-Assistant-Application/assets/css/custom.css">
+<link rel="stylesheet" href="{{ site.baseurl }}/assets/css/custom.css">
 
 <!-- NAV BAR (manual) -->
 <p>
@@ -11,6 +11,7 @@ title: Garden Assistant Application
   <a href="/Garden-Assistant-Application/team">Team Bio</a>
 </p>
 <hr>
+{% include nav.html %}
 
 Garden Assistant Application Portfolio
 
