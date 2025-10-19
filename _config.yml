@@ -4,6 +4,9 @@ theme: jekyll-theme-cayman
 
 header_pages:
   - index.md
+  - problem.md
+  - solution.md
+  - deliverables.md
   - presentations.md
   - team.md
 
