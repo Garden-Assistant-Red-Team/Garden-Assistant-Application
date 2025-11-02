@@ -19,7 +19,7 @@ permalink: /presentations/
 }
 .tab-panel { display: none; border: 1px solid #ddd; border-radius: 0 .5rem .5rem .5rem; padding: 1rem; }
 
-/* Show Active Panel */
+/* Show Active Panel (requires .panels wrapper) */
 #ppt1:checked ~ .panels #panel1,
 #ppt2:checked ~ .panels #panel2,
 #ppt3:checked ~ .panels #panel3,
@@ -35,7 +35,7 @@ permalink: /presentations/
 
 /* Responsive Slide Embed */
 .embed-wrap { position: relative; width: 100%; padding-bottom: 56.25%; height: 0; margin-top: 10px; }
-.embed-wrap iframe { position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: 0; }
+.embed-wrap iframe { position: absolute; inset: 0; width: 100%; height: 100%; border: 0; }
 </style>
 
 <div class="tabs">
@@ -53,19 +53,20 @@ permalink: /presentations/
     <label for="ppt4">Feasibility V1</label>
   </div>
 
-  <!-- Tab Content -->
-<section id="panel2" class="tab-panel">
-  <h3>Design Presentation</h3>
-  <div class="embed-wrap">
-    <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSPzDmFGicHJFZ0o0D3Ls44cILyQJS5Ghi1_Ryj1pK08YtQxmbpaJJssIyYYt6OhO7ZafTvZ2jBf_p0/pubembed?start=false&loop=false&delayms=3000" allowfullscreen></iframe>
-  </div>
-</section>
-
+  <!-- ✅ REQUIRED WRAPPER -->
+  <div class="panels">
+    <section id="panel1" class="tab-panel">
+      <h3>Prototype Presentation</h3>
+      <div class="embed-wrap">
+        <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRNO2rK8lowBGTZS3g50nB5VppiFsM4JSl8WgN_qFwV8b6Wt6kMk8p49412CKTZ_qOk1jOb5Sq4fYkG/pubembed?start=false&loop=false&delayms=3000" allowfullscreen></iframe>
+      </div>
+    </section>
 
     <section id="panel2" class="tab-panel">
       <h3>Design Presentation</h3>
       <div class="embed-wrap">
-        <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRNO2rK8lowBGTZS3g50nB5VppiFsM4JSl8WgN_qFwV8b6Wt6kMk8p49412CKTZ_qOk1jOb5Sq4fYkG/pubembed?start=false&loop=false&delayms=3000" allowfullscreen></iframe>
+        <!-- Your DESIGN link -->
+        <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSPzDmFGicHJFZ0o0D3Ls44cILyQJS5Ghi1_Ryj1pK08YtQxmbpaJJssIyYYt6OhO7ZafTvZ2jBf_p0/pubembed?start=false&loop=false&delayms=3000" allowfullscreen></iframe>
       </div>
     </section>
 
