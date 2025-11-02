@@ -54,13 +54,13 @@ permalink: /presentations/
   </div>
 
   <!-- Tab Content -->
-  <div class="panels">
-    <section id="panel1" class="tab-panel">
-      <h3>Prototype Presentation</h3>
-      <div class="embed-wrap">
-        <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRNO2rK8lowBGTZS3g50nB5VppiFsM4JSl8WgN_qFwV8b6Wt6kMk8p49412CKTZ_qOk1jOb5Sq4fYkG/pubembed?start=false&loop=false&delayms=3000" allowfullscreen></iframe>
-      </div>
-    </section>
+<section id="panel2" class="tab-panel">
+  <h3>Design Presentation</h3>
+  <div class="embed-wrap">
+    <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSPzDmFGicHJFZ0o0D3Ls44cILyQJS5Ghi1_Ryj1pK08YtQxmbpaJJssIyYYt6OhO7ZafTvZ2jBf_p0/pubembed?start=false&loop=false&delayms=3000" allowfullscreen></iframe>
+  </div>
+</section>
+
 
     <section id="panel2" class="tab-panel">
       <h3>Design Presentation</h3>
