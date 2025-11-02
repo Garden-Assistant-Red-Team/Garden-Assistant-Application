@@ -19,14 +19,12 @@ permalink: /presentations/
 }
 .tab-panel { display: none; border: 1px solid #ddd; border-radius: 0 .5rem .5rem .5rem; padding: 1rem; }
 
-/* Show Active Panel (requires .panels wrapper) */
-#ppt1:checked ~ .panels #panel1,
+/* Show Active Panel */
 #ppt2:checked ~ .panels #panel2,
 #ppt3:checked ~ .panels #panel3,
 #ppt4:checked ~ .panels #panel4 { display: block; }
 
 /* Highlight Active Tab */
-#ppt1:checked ~ .tab-controls label[for="ppt1"],
 #ppt2:checked ~ .tab-controls label[for="ppt2"],
 #ppt3:checked ~ .tab-controls label[for="ppt3"],
 #ppt4:checked ~ .tab-controls label[for="ppt4"] {
@@ -39,50 +37,59 @@ permalink: /presentations/
 </style>
 
 <div class="tabs">
-  <!-- Radio buttons (tabs) -->
-  <input type="radio" name="ppt-tab" id="ppt1" checked>
-  <input type="radio" name="ppt-tab" id="ppt2">
+  <!-- Removed Prototype Radio (Hidden) -->
+  <!-- <input type="radio" name="ppt-tab" id="ppt1"> -->
+
+  <!-- Keep these -->
+  <input type="radio" name="ppt-tab" id="ppt2" checked>
   <input type="radio" name="ppt-tab" id="ppt3">
   <input type="radio" name="ppt-tab" id="ppt4">
 
-  <!-- Tab Labels -->
+  <!-- Tab Labels (Prototype Removed) -->
   <div class="tab-controls">
-    <label for="ppt1">Prototype</label>
+    <!-- <label for="ppt1">Prototype</label> -->
     <label for="ppt2">Design</label>
     <label for="ppt3">Feasibility V2</label>
     <label for="ppt4">Feasibility V1</label>
   </div>
 
-  <!-- ✅ REQUIRED WRAPPER -->
+  <!-- Panels Wrapper -->
   <div class="panels">
+
+    <!-- Hidden Prototype Content -->
+    <!--
     <section id="panel1" class="tab-panel">
       <h3>Prototype Presentation</h3>
       <div class="embed-wrap">
-        <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRNO2rK8lowBGTZS3g50nB5VppiFsM4JSl8WgN_qFwV8b6Wt6kMk8p49412CKTZ_qOk1jOb5Sq4fYkG/pubembed?start=false&loop=false&delayms=3000" allowfullscreen></iframe>
+        <iframe src="YOUR PROTOTYPE LINK HERE" allowfullscreen></iframe>
       </div>
     </section>
+    -->
 
+    <!-- Design -->
     <section id="panel2" class="tab-panel">
       <h3>Design Presentation</h3>
       <div class="embed-wrap">
-        <!-- Your DESIGN link -->
         <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSPzDmFGicHJFZ0o0D3Ls44cILyQJS5Ghi1_Ryj1pK08YtQxmbpaJJssIyYYt6OhO7ZafTvZ2jBf_p0/pubembed?start=false&loop=false&delayms=3000" allowfullscreen></iframe>
       </div>
     </section>
 
+    <!-- Feasibility V2 -->
     <section id="panel3" class="tab-panel">
-      <h3>Feasibility V2 Presentation</h3>
+      <h3>Feasibility V2</h3>
       <div class="embed-wrap">
         <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRNO2rK8lowBGTZS3g50nB5VppiFsM4JSl8WgN_qFwV8b6Wt6kMk8p49412CKTZ_qOk1jOb5Sq4fYkG/pubembed?start=false&loop=false&delayms=3000" allowfullscreen></iframe>
       </div>
     </section>
 
+    <!-- Feasibility V1 -->
     <section id="panel4" class="tab-panel">
-      <h3>Feasibility V1 Presentation</h3>
+      <h3>Feasibility V1</h3>
       <div class="embed-wrap">
         <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRNO2rK8lowBGTZS3g50nB5VppiFsM4JSl8WgN_qFwV8b6Wt6kMk8p49412CKTZ_qOk1jOb5Sq4fYkG/pubembed?start=false&loop=false&delayms=3000" allowfullscreen></iframe>
       </div>
     </section>
+
   </div>
 </div>
 {% endraw %}
