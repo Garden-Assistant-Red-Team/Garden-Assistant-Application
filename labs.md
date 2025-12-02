@@ -3,6 +3,9 @@ layout: page
 title: Labs
 subtitle: Garden Assistant — CS 410
 ---
+<link rel="stylesheet" href="/Garden-Assistant-Application/assets/css/custom.css">
+<!-- NAV BAR (manual) -->
+{% include nav.html %}
 
 <div class="lab-section">
   <h2>Collaborative Lab 1 Outline</h2>
