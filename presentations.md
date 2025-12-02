@@ -3,7 +3,7 @@ layout: default
 title: Presentations
 permalink: /presentations/
 ---
-
+<link rel="stylesheet" href="/Garden-Assistant-Application/assets/css/custom.css">
 {% include nav.html %}
 
 {% raw %}
