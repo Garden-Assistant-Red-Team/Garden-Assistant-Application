@@ -33,12 +33,12 @@ details.lab-panel > summary::-webkit-details-marker {
 <details class="lab-panel" open>
   <summary>Collaborative Lab 1 Outline</summary>
   <div style="padding: 1rem;">
-    <iframe
-      src="https://docs.google.com/document/d/108V3GB3aGbDi1AKVNDwqNbi6W6CMxsR6gpCiTD2ZI/preview"
-      width="100%"
-      height="600"
-      style="border:none;"
-    ></iframe>
+ <iframe
+  src="https://docs.google.com/document/d/108V3GB3aGgDi1AKVNDwqNbi6W6CMxsR6gpCiTD2IZec/preview"
+  width="100%"
+  height="800"
+  style="border:none;"
+></iframe>
   </div>
 </details>
 
