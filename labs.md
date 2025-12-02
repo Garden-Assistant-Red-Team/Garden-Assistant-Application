@@ -11,8 +11,7 @@ subtitle: Garden Assistant — CS 410
   <h2>Collaborative Lab 1 Outline</h2>
   <p>
     This section contains our team’s shared outline for Lab 1.  
-    <!-- Replace this link with your actual Google Doc / PDF / Markdown link -->
-    <a href="#" target="_blank">View Collaborative Lab 1 Outline</a>
+    <a href="https://docs.google.com/document/d/108V3GB3aGgDi1AKVNDwqNbi6W6CMxsR6gpCiTD2IZec/edit?usp=sharing" target="_blank">View Collaborative Lab 1 Outline</a>
   </p>
 </div>
 
