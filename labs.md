@@ -1,0 +1,29 @@
+---
+layout: page
+title: Labs
+subtitle: Garden Assistant — CS 410
+---
+
+<div class="lab-section">
+  <h2>Collaborative Lab 1 Outline</h2>
+  <p>
+    This section contains our team’s shared outline for Lab 1.  
+    <!-- Replace this link with your actual Google Doc / PDF / Markdown link -->
+    <a href="#" target="_blank">View Collaborative Lab 1 Outline</a>
+  </p>
+</div>
+
+<hr />
+
+<div class="lab-section">
+  <h2>Individual Lab 1 Drafts</h2>
+  <p>Each team member’s individual Lab 1 draft is listed below.</p>
+
+  <ul>
+    <li><strong>Kenyta Blount</strong> – <a href="#">Draft link</a></li>
+    <li><strong>Teammate 2</strong> – <a href="#">Draft link</a></li>
+    <li><strong>Teammate 3</strong> – <a href="#">Draft link</a></li>
+    <li><strong>Teammate 4</strong> – <a href="#">Draft link</a></li>
+    <li><strong>Teammate 5</strong> – <a href="#">Draft link</a></li>
+  </ul>
+</div>
