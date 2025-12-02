@@ -122,4 +122,3 @@ details.lab-panel > summary::-webkit-details-marker {
 ></iframe>
   </div>
 </details>
-</div>
