@@ -1,7 +1,7 @@
 ---
-layout: page
+layout: default
 title: Labs
-subtitle: Garden Assistant — CS 410
+subtitle: Team Red — CS 410
 ---
 <link rel="stylesheet" href="/Garden-Assistant-Application/assets/css/custom.css">
 <!-- NAV BAR (manual) -->
