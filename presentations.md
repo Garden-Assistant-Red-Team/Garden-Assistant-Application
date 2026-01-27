@@ -57,15 +57,14 @@ permalink: /presentations/
   <div class="panels">
 
     <!-- Hidden Prototype Content -->
-    <!--
+    
     <section id="panel1" class="tab-panel">
       <h3>Prototype Presentation</h3>
       <div class="embed-wrap">
         <iframe src="YOUR PROTOTYPE LINK HERE" allowfullscreen></iframe>
       </div>
     </section>
-    -->
-
+    
     <!-- Design -->
     <section id="panel2" class="tab-panel">
       <h3>Design Presentation</h3>
