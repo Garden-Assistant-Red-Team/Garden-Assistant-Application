@@ -40,10 +40,10 @@ permalink: /presentations/
 
 <div class="tabs">
   <!-- Removed Prototype Radio (Hidden) -->
- <input type="radio" name="ppt-tab" id="ppt1">
+ <input type="radio" name="ppt-tab" id="ppt1" checked>
 
   <!-- Keep these -->
-  <input type="radio" name="ppt-tab" id="ppt2" checked>
+  <input type="radio" name="ppt-tab" id="ppt2">
   <input type="radio" name="ppt-tab" id="ppt3">
   <input type="radio" name="ppt-tab" id="ppt4">
 
@@ -60,13 +60,14 @@ permalink: /presentations/
 
     <!-- Hidden Prototype Content -->
     
-    <section id="panel1" class="tab-panel">
-      <h3>Prototype Presentation</h3>
-      <div class="embed-wrap">
-        <iframe src="<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQ0BQQ-lr4Rcec5-OW54y_lblArjCIqQOauOFHK4ZnDrRgputVF8GVuX0tWxh1iGO2Bl3A2ao8MH-ld/pubembed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>" allowfullscreen></iframe>
-      </div>
-    </section>
-    
+ <section id="panel1" class="tab-panel">
+  <h3>Prototype Presentation</h3>
+  <div class="embed-wrap">
+    <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQ0BQQ-lr4Rcec5-OW54y_lblArjCIqQOauOFHK4ZnDrRgputVF8GVuX0tWxh1iGO2Bl3A2ao8MH-ld/pubembed?start=false&loop=false&delayms=3000"
+      allowfullscreen></iframe>
+  </div>
+</section>
+
     <!-- Design -->
     <section id="panel2" class="tab-panel">
       <h3>Design Presentation</h3>
