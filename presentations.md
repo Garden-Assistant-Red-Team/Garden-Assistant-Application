@@ -20,11 +20,13 @@ permalink: /presentations/
 .tab-panel { display: none; border: 1px solid #ddd; border-radius: 0 .5rem .5rem .5rem; padding: 1rem; }
 
 /* Show Active Panel */
+#ppt1:checked ~ .panels #panel1,
 #ppt2:checked ~ .panels #panel2,
 #ppt3:checked ~ .panels #panel3,
 #ppt4:checked ~ .panels #panel4 { display: block; }
 
 /* Highlight Active Tab */
+#ppt1:checked ~ .tab-controls label[for="ppt1"],
 #ppt2:checked ~ .tab-controls label[for="ppt2"],
 #ppt3:checked ~ .tab-controls label[for="ppt3"],
 #ppt4:checked ~ .tab-controls label[for="ppt4"] {
@@ -38,7 +40,7 @@ permalink: /presentations/
 
 <div class="tabs">
   <!-- Removed Prototype Radio (Hidden) -->
-  <!-- <input type="radio" name="ppt-tab" id="ppt1"> -->
+ <input type="radio" name="ppt-tab" id="ppt1">
 
   <!-- Keep these -->
   <input type="radio" name="ppt-tab" id="ppt2" checked>
@@ -47,7 +49,7 @@ permalink: /presentations/
 
   <!-- Tab Labels (Prototype Removed) -->
   <div class="tab-controls">
-    <!-- <label for="ppt1">Prototype</label> -->
+   <label for="ppt1">Prototype</label>
     <label for="ppt2">Design</label>
     <label for="ppt3">Feasibility V2</label>
     <label for="ppt4">Feasibility V1</label>
@@ -61,7 +63,7 @@ permalink: /presentations/
     <section id="panel1" class="tab-panel">
       <h3>Prototype Presentation</h3>
       <div class="embed-wrap">
-        <iframe src="YOUR PROTOTYPE LINK HERE" allowfullscreen></iframe>
+        <iframe src="<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQ0BQQ-lr4Rcec5-OW54y_lblArjCIqQOauOFHK4ZnDrRgputVF8GVuX0tWxh1iGO2Bl3A2ao8MH-ld/pubembed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>" allowfullscreen></iframe>
       </div>
     </section>
     
