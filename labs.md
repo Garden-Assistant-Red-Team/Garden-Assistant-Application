@@ -86,7 +86,7 @@ details.lab-panel > summary::-webkit-details-marker {
 
 <!-- Teammate 4 -->
 <details class="lab-panel">
-  <summary>Jonathan Osberg – Lab 1 Draft</summary>
+  <summary>Fred Terling – Lab 1 Draft</summary>
   <div style="padding: 1rem;">
    <iframe
   src="https://docs.google.com/document/d/108V3GB3aGgDi1AKVNDwqNbi6W6CMxsR6gpCiTD2IZec/preview"
@@ -122,3 +122,18 @@ details.lab-panel > summary::-webkit-details-marker {
 ></iframe>
   </div>
 </details>
+
+
+<!-- Teammate 7 -->
+<details class="lab-panel">
+  <summary>Augustine Kpewa – Lab 1 Draft</summary>
+  <div style="padding: 1rem;">
+   <iframe
+  src="https://docs.google.com/document/d/108V3GB3aGgDi1AKVNDwqNbi6W6CMxsR6gpCiTD2IZec/preview"
+  width="100%"
+  height="800"
+  style="border:none;"
+></iframe>
+  </div>
+</details>
+
