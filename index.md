@@ -17,7 +17,8 @@ Welcome to our team website. This site will serve as our electronic portfolio fo
 - Kenyta Blount
 - Michael Hollingsworth
 - Ibrahima Wann
-- Jonathan Osberg
+- Fred Terling
+- Augustine Kpewa
 
 
 ## About This Site
