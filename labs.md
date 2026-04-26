@@ -137,3 +137,29 @@ details.lab-panel > summary::-webkit-details-marker {
   </div>
 </details>
 
+<h2>Lab 2 Group</h2>
+
+<details class="lab-panel">
+  <summary>Lab 2 Document</summary>
+  <div style="padding: 1rem;">
+    <iframe
+      src="[PASTE_YOUR_LAB2_GOOGLE_DOC_LINK_HERE](https://docs.google.com/document/d/15HHua16li_IiqqiEaX-qn4mZHmRj5md_oFRS5gALnmY/edit?usp=sharing)/preview"
+      width="100%"
+      height="800"
+      style="border:none;">
+    </iframe>
+  </div>
+</details>
+
+<h2>Labs 3 & 4</h2>
+
+<details class="lab-panel">
+  <summary>Lab 3 & 4 Resource</summary>
+  <div style="padding: 1rem;">
+    <p>
+      <a href="[PASTE_YOUR_LINK_HERE](https://github.com/Garden-Assistant-Red-Team/Spring-2026---Red/wiki)" target="_blank">
+        Click here to view Labs 3 & 4
+      </a>
+    </p>
+  </div>
+</details>
